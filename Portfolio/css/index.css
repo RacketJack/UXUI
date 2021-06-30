@@ -1,0 +1,14 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: blue;
+  }
+#navbar {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 5%;
+  }
+#navigation {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+  }
